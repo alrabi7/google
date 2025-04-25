@@ -1,1 +1,1 @@
-# google
+plz install python
